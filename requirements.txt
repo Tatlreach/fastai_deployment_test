@@ -1,6 +1,6 @@
 fastcore
 fastai
 voila
-ipywidgets
-torchtext==0.8.1
-matplotlib
+pillow>=7.1.0
+packaging
+ipywidgets==7.5.1

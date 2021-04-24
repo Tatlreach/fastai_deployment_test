@@ -1,0 +1,6 @@
+fastcore
+fastai
+voila
+ipywidgets
+torchtext==0.8.1
+matplotlib
