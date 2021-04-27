@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 02_production working-Copy1.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True sample-fastai-binder-app.ipynb
